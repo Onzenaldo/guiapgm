@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "409790107696",
+    "firebase_url": "https://guiapgm-dc77e.firebaseio.com",
+    "project_id": "guiapgm-dc77e",
+    "storage_bucket": "guiapgm-dc77e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409790107696:android:aaaab986f0059a44549df5",
+        "android_client_info": {
+          "package_name": "com.softwareonze.guiapgm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409790107696-hegkuh272chi90segh6s9lld5i30f4ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2M7hessW568X7zPV4dVJEpcxTN3vYEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409790107696-hegkuh272chi90segh6s9lld5i30f4ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
